@@ -33,13 +33,14 @@ export default class About extends Component {
                           {resumeData.address}
                         </span>
                         <br></br>
+                        <span>{resumeData.mail}</span>
        					      </p>
                   </div>
 
                   
                   <div class="columns download">
                       <p>
-                        <a download href="https://github.com/druizcayuela/resume/blob/master/CV.pdf" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                        <a download href="https://github.com/druizcayuela/resume/raw/master/images/CV.pdf" className="button"><i className="fa fa-download"></i>Download Resume</a>
                       </p>
                   </div>
 

@@ -16,7 +16,7 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://skype.com",
+          "url":"skype:druizcayuela?call",
           "className":"fa fa-skype"
         }
       ],
@@ -198,12 +198,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Daniel and I were project partners at T-Systems Iberia. He assumed the role of technical leader, detecting problems and technical needs, and providing effective solutions. His ability as a leader allowed the rest of the team to work in a comfortable and stable manner, as we were confident of having his skills, added to that he has always had the opinion of the rest of the team members.\n Personally, I was very much enriched by Daniel, not only technically, but also as a person.\n Hopefully our professional paths come together again. I wish you the best of luck",
+        "name":"Sergio Martin Vilchez"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Daniel is a professional committed to his work and knows how to work in a team and interact with the client, as well as he pays attention to technical details and he is willing to help whenever necessary.",
+        "name":"Mª Jose Uceda"
       }
     ]
   }
