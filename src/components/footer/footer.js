@@ -21,7 +21,7 @@ export default class Footer extends Component {
           </ul>
           <ul className="copyright">
             <li>© Copyright 2018 María José Uceda</li>
-            <li>Design by <a title="Styleshout" href="https://druizcayuela.github.io/resume/">María José Uceda</a></li>
+            <li>Design by <a title="Styleshout" href="https://mjucedag.github.io/resume/">María José Uceda</a></li>
           </ul>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
