@@ -1,7 +1,7 @@
 let resumeData = {
     "name": "María José Uceda",
     "role": "SAP CRM Consultant - Programmer",
-    "mail":" mariajoseuceda@hotmail.com",
+    "mail":" mj_uceda@hotmail.com",
     "roleDescription": " I have interest in SD, FI, CO and MM modules, as well. With high performance skills in the analysis and resolution of problems for clients. Passionate in Agile methodology with Scrum, in the Quality Assurance, Agile Testing, Automated Testing and Security Testing. I am self-motivated and able to work well under pressure. Committed to the good development of the jobs that are in charge and to offer excellence in dealing with the client.",
     "socialLinks":[
         {
@@ -14,7 +14,7 @@ let resumeData = {
     "address":"Spain - Granada",
     "education":[
       {
-        "UniversityName":"IES Zaidin Vergeles",
+        "UniversityName":"I.E.S. Zaidín Vergeles",
         "specialization":"Higher Cycle of Development of Multiplataform Applications",
         "MonthOfPassing":"Jun",
         "YearOfPassing":"2018",
