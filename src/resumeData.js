@@ -2,7 +2,7 @@ let resumeData = {
     "name": "María José Uceda",
     "role": "SAP CRM Consultant - Programmer",
     "mail":" mj_uceda@hotmail.com",
-    "roleDescription": " I have interest in SD, FI, CO and MM modules, as well. With high performance skills in the analysis and resolution of problems for clients. Passionate in Agile methodology with Scrum, in the Quality Assurance, Agile Testing, Automated Testing and Security Testing. I am self-motivated and able to work well under pressure. Committed to the good development of the jobs that are in charge and to offer excellence in dealing with the client.",
+    "roleDescription": " I have interest in SD, FI, CO and MM modules, as well. With high performance skills in analysis and resolution of problems for clients. Passionate in Agile methodology with Scrum, in Quality Assurance, Agile Testing, Automated Testing and Security Testing. I am self-motivated and able to work well under pressure. Committed to the good development of the jobs that are in charge and to offer excellence in dealing with the client.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -10,7 +10,7 @@ let resumeData = {
           "className":"fa fa-linkedin"
         },
       ],
-    "aboutme":"I am passionate about engineering of quality assurance, in the 7 Software Testing Principles, learning from Automated Test and differents types of testing (Unit Test, Integration Test, System Test and UI-Test), the Testing Techniques, the Agile Methodology with Agile Testing, helping to desing the Test Strategy and Test Plan. I am passionate of good practices as SOLID principles and DRY and KISS principles of good design.",
+    "aboutme":"I am passionate about engineering of quality assurance, in the 7 Software Testing Principles, learning from Automated Testing and differents types of testing (Unit Test, Integration Test, System Test and UI-Test), the Testing Techniques, the Agile Methodology with Agile Testing, helping to desing the Test Strategy and Test Plan. I love good practices as SOLID principles and DRY and KISS principles of good design.",
     "address":"Spain - Granada",
     "education":[
       {
@@ -39,7 +39,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"T-Systems Iberia",
+        "CompanyName":"T-Systems Iberia S.L.",
         "specialization":"SAP CRM Consultant - Programmer",
         "MonthOfLeaving":"Currently",
         "YearOfLeaving":"",
@@ -49,7 +49,7 @@ let resumeData = {
         Creation of manuals.`
       },
       {
-        "CompanyName":"Freelance",
+        "CompanyName":"Freelance Portal",
         "specialization":"Java Developer",
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2018",
@@ -101,8 +101,8 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"Excellent professional, involved in his work, in his work group, in the company and in the brand of it. Committed to good practices in software development and its quality, as well as in work methodologies. Always helping, motivating and creating tools to help.",
-        "name":"Estrella Molina"
+        "description":"Excellent professional, involved in her work, in her work group, in the company and in its brand. Committed to good practices in software development and its quality, as well as in work methodologies. Always helping, motivating and creating tools to help.",
+        "name":"Daniel Ruiz"
       },
     ]
   }

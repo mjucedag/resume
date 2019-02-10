@@ -978,6 +978,10 @@ footer .social-links li {
     color: #F06000;
 }
 
+.socialLinkFooter {
+   color: #11ABB0 !important;
+}
+
 footer .social-links li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
