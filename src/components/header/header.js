@@ -6,7 +6,7 @@ export default class Header extends Component {
       <React.Fragment>
       {/*generated code*/}
       <header id="home">
-         <nav id="nav-wrap">
+         <nav id="nav-wrap" className="normal-header">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
           <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
             <ul id="nav" className="nav">

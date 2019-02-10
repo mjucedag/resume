@@ -21,6 +21,7 @@ export default class About extends Component {
                }
                </p>
 
+              <br /><br />
                <div className="row">
 
                   <div className="columns contact-details">

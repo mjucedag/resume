@@ -89,8 +89,10 @@
       else {
          if (y < h*.20) {
             nav.removeClass('opaque').fadeIn('fast');
+            nav.addClass('normal-header').fadeIn('fast');
          }
          else {
+            nav.removeClass('normal-header').fadeIn('fast');
             nav.addClass('opaque').fadeIn('fast');
          }
       }

@@ -24,33 +24,7 @@ export default class Porfolio extends Component {
                 )
                 })
             }
-            <li>
-                <Tooltip content="Redux">
-                  <span>
-                      <i className={`cbp-ig-icon`}>
-                        <span class="iconify" data-icon="simple-icons:redux" data-inline="false"></span>
-                      </i>
-                  </span>
-                </Tooltip>
-            </li>
-            <li>
-              <Tooltip content="Firebase">
-                  <span>
-                      <i className={`cbp-ig-icon`}>
-                        <span class="iconify" data-icon="simple-icons:firebase" data-inline="false"></span>
-                      </i>
-                  </span>
-                </Tooltip>
-            </li>
-            <li>
-              <Tooltip content="Jenkins">
-                  <span>
-                      <i className={`cbp-ig-icon`}>
-                        <span class="iconify" data-icon="fa-brands:jenkins" data-inline="false"></span>
-                      </i>
-                  </span>
-                </Tooltip>
-            </li>
+           
             <li>
               <Tooltip content="Ionic">
                   <span>
@@ -60,15 +34,27 @@ export default class Porfolio extends Component {
                   </span>
                 </Tooltip>
             </li>
+
             <li>
-              <Tooltip content="NPM">
+              <Tooltip content="SAP">
                   <span>
                       <i className={`cbp-ig-icon`}>
-                        <span class="iconify" data-icon="fa-brands:npm" data-inline="false"></span>
+                        <span class="iconify" data-icon="simple-icons:sap" data-inline="false"></span>
                       </i>
                   </span>
                 </Tooltip>
             </li>
+
+            <li>
+              <Tooltip content="Testing">
+                  <span>
+                      <i className={`cbp-ig-icon`}>
+                        <span class="iconify" data-icon="mdi-test-tube" data-inline="false"></span>
+                      </i>
+                  </span>
+                </Tooltip>
+            </li>
+          
           </ul>
           
           </div>
