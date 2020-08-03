@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://mjucedag.github.io/resume",
   "dependencies": {
+    "gh-pages-deploy": "^0.5.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
@@ -27,6 +28,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }
